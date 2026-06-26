@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pickle
+*.joblib
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+wandb/
+
+# Deep Learning
+
+# Large training artifacts
+checkpoints/
+outputs/
+experiments/
+
+# Datasets
+Dataset/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Cache folders
+.cache/
+__cache__/
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db

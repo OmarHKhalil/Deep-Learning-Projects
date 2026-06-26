@@ -1,0 +1,19 @@
+# Web Frameworks
+fastapi==0.110.0
+uvicorn==0.30.0
+streamlit==1.32.0
+requests==2.31.0
+
+# AI & Computer Vision
+torch==2.3.0
+torchvision==0.18.0
+scikit-learn == 1.4.2
+pillow==10.4.0
+python-multipart==0.0.9
+
+# Data & Visualization
+numpy==1.26.4
+pandas==2.1.4
+plotly==5.20.0
+
+
