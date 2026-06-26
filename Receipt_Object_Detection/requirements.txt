@@ -1,0 +1,15 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+pandas
+matplotlib
+torch>=1.11
+torchvision
+albumentations
+pyyaml
+tqdm
+opencv-python-headless
+pillow
+scikit-learn
+seaborn
+pytesseract
